@@ -13,6 +13,6 @@ Tools: Git, Github, VS Code, Firebase, Netlify, Heroku, Figma, Canva, CMD, Chrom
 ## Contact Me
 <h1><a href="https://www.facebook.com/SeriouslySazzad/" target="_blank">Facebook</a></h1> <h1><a href="https://www.instagram.com/" target="_blank">Instagram</a></h1> <h1><a href="https://twitter.com/SeriouslySazzad" target="_blank">Twitter</a></h1>
 
-Gmail : mahmudsazzad85@gmail.com
+<h2>Gmail : mahmudsazzad85@gmail.com</h2>
 
 <a href="#"><img width="100%" height="auto"  src="https://image.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg"/></a>
