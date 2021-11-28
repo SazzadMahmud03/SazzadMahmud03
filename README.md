@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto"  src="https://image.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg"/></a>
-
 <h1 align="center">Hi, I am Sazzad Mahmud</h1> 
 <h1 align="center"><b>Full Stack Web Developer</b></h1>
 
@@ -18,3 +16,4 @@ Tools: Git, Github, VS Code, Firebase, Netlify, Heroku, Figma, Canva, CMD, Chrom
 <h1><li>[Twitter](https://twitter.com/SeriouslySazzad)</li></h1>
 Follow Me on [Facebook](https://www.facebook.com/SeriouslySazzad/), [Instagram](https://www.instagram.com/), [Twitter](https://twitter.com/SeriouslySazzad).
 Gmail : mahmudsazzad85@gmail.com
+<a href="#"><img width="100%" height="auto"  src="https://image.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg"/></a>
