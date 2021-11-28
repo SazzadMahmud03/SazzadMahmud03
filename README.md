@@ -11,7 +11,7 @@ Familiar with: TypeScript, Material UI, Google Map, JWT Token etc.
 Tools: Git, Github, VS Code, Firebase, Netlify, Heroku, Figma, Canva, CMD, Chrome Dev Tool, MS Office etc.
 
 ## Contact Me
-Follow Me on [Facebook](https://www.facebook.com/SeriouslySazzad/), [Instagram](https://www.instagram.com/), [Twitter](https://twitter.com/SeriouslySazzad).
+[Facebook](https://www.facebook.com/SeriouslySazzad/) <br /> [Instagram](https://www.instagram.com/), [Twitter](https://twitter.com/SeriouslySazzad).
 
 Gmail : mahmudsazzad85@gmail.com
 
