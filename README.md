@@ -14,7 +14,6 @@ Tools: Git, Github, VS Code, Firebase, Netlify, Heroku, Figma, Canva, CMD, Chrom
 <h1><li>[Facebook](https://www.facebook.com/SeriouslySazzad/)</li></h1>
 <h1><li>[Instagram](https://www.instagram.com/)</li></h1>
 <h1><li>[Twitter](https://twitter.com/SeriouslySazzad)</li></h1>
-Follow Me on [Facebook](https://www.facebook.com/SeriouslySazzad/), [Instagram](https://www.instagram.com/), [Twitter](https://twitter.com/SeriouslySazzad).
 
 Gmail : mahmudsazzad85@gmail.com
 
