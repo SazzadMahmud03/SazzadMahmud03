@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Sazzad Mahmud</h1> 
+<h1 align="center">Sazzad Mahmud</h1> 
 <h1 align="center"><b>Full Stack Web Developer</b></h1>
 
 ## About Me
