@@ -1,5 +1,5 @@
 <h1 align="center">Sazzad Mahmud</h1> 
-<h1 align="center"><b>Junior Web Developer</b></h1>
+<h1 align="center"><b>Web Developer</b></h1>
 
 ## About Me
 I am Sazzad Mahmud, a Junior Web Developer with a passion for Web Application Development. I have experience in developing some web pages successfully. I’m working a minimum of 8–10 hours every day. I love to do this because I love to learn new things. My goal is to satisfy clients, try to understand what they want for their website, help them from beginning to the end of the project, and give support for every problem. I am passionate about learning about new technologies. I am seeking opportunities and challenges that will improve my skill set.
