@@ -4,7 +4,7 @@
 ## About Me
 I am Sazzad Mahmud, a Junior Web Developer with a passion for Web Application Development. I have experience in developing some web pages successfully. I’m working a minimum of 8–10 hours every day. I love to do this because I love to learn new things. My goal is to satisfy clients, try to understand what they want for their website, help them from beginning to the end of the project, and give support for every problem. I am passionate about learning about new technologies. I am seeking opportunities and challenges that will improve my skill set.
 
-Comfortable with: <strong>HTML5, CSS3, JavaScript, Bootstrap, Tailwind, React, React Router Dom, React Hook Form, Axios, Node JS, MongoDB, Express JS etc.</strong>
+Comfortable with: <strong>HTML5, CSS3, JavaScript, Bootstrap, Tailwind, React, React Router Dom, React Hook Form, Axios, Node JS, MongoDB, Express JS, WordPress etc.</strong>
 
 Familiar with: <strong>TypeScript, Material UI, Google Map, JWT Token etc.</strong>
 
