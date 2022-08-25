@@ -19,6 +19,7 @@ Tools: <strong>Git, Github, VS Code, Firebase, Netlify, Heroku, Figma, Canva, CM
 <a href="https://twitter.com/sazzad__003" target="_blank">Twitter</a>
 </h3>
 
-<h2>Gmail : mahmudsazzad85@gmail.com</h2>
+Email: sazzadhossain1623@gmail.com
+Phone: +8801688536148
 
 <a href="#"><img width="100%" height="auto"  src="https://image.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg"/></a>
