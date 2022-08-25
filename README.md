@@ -12,10 +12,10 @@ Tools: <strong>Git, Github, VS Code, Firebase, Netlify, Heroku, Figma, Canva, CM
 
 ## Contact
 <h3>
-<a href="https://www.linkedin.com/in/sazzadhossain97/" target="_blank">LinkedIn</a> 
-<a href="https://portfolio-sazzad.web.app/" target="_blank">Portfolio</a> 
-<a href="https://www.facebook.com/sazzad1623" target="_blank">Facebook</a> 
-<a href="https://www.instagram.com/sazzad__003/" target="_blank">Instagram</a> 
+<a href="https://www.linkedin.com/in/sazzadhossain97/" target="_blank">LinkedIn</a> ||
+<a href="https://portfolio-sazzad.web.app/" target="_blank">Portfolio</a> ||
+<a href="https://www.facebook.com/sazzad1623" target="_blank">Facebook</a> ||
+<a href="https://www.instagram.com/sazzad__003/" target="_blank">Instagram</a> ||
 <a href="https://twitter.com/sazzad__003" target="_blank">Twitter</a>
 </h3>
 
