@@ -20,7 +20,7 @@ Tools: <strong>Git, Github, VS Code, Firebase, Netlify, Heroku, Figma, Canva, CM
 </h3>
 
 <h3>
-Email: sazzadhossain1623@gmail.com || 
+Email: sazzadhossain1623@gmail.com<br>
 Phone: +8801688536148
 </h3>
 
