@@ -10,7 +10,7 @@ Familiar with: <strong>TypeScript, Material UI, Google Map, JWT Token etc.</stro
 
 Tools: <strong>Git, Github, VS Code, Firebase, Netlify, Heroku, Figma, Canva, CMD, Chrome Dev Tool, MS Office etc.</strong>
 
-<h1><a href="https://drive.google.com/file/d/1WHKvPaLLamL8QVPM93fphW1ianHx25aM/view?usp=sharing" target="_blank">See Resume</a></h1>
+<h2><a href="https://drive.google.com/file/d/1WHKvPaLLamL8QVPM93fphW1ianHx25aM/view?usp=sharing" target="_blank">Click here to see Resume</a></h2>
 
 ## Contact
 <h3>
