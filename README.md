@@ -1,4 +1,4 @@
-<h1 align="center">Sazzad Mahmud</h1> 
+<h1 align="center">Sazzad Hossain</h1> 
 <h1 align="center"><b>Web Developer</b></h1>
 
 ## About
